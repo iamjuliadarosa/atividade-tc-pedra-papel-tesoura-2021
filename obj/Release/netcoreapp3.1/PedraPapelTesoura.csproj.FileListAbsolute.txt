@@ -1,0 +1,14 @@
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Release\netcoreapp3.1\PedraPapelTesoura.exe
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Release\netcoreapp3.1\PedraPapelTesoura.deps.json
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Release\netcoreapp3.1\PedraPapelTesoura.runtimeconfig.json
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Release\netcoreapp3.1\PedraPapelTesoura.runtimeconfig.dev.json
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Release\netcoreapp3.1\PedraPapelTesoura.dll
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\bin\Release\netcoreapp3.1\PedraPapelTesoura.pdb
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Release\netcoreapp3.1\PedraPapelTesoura.csproj.AssemblyReference.cache
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Release\netcoreapp3.1\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Release\netcoreapp3.1\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Release\netcoreapp3.1\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Release\netcoreapp3.1\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Release\netcoreapp3.1\PedraPapelTesoura.dll
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Release\netcoreapp3.1\PedraPapelTesoura.pdb
+C:\Users\Julia\source\repos\PedraPapelTesoura\PedraPapelTesoura\obj\Release\netcoreapp3.1\PedraPapelTesoura.genruntimeconfig.cache
