@@ -72,6 +72,7 @@ namespace PedraPapelTesoura
             //{
             //    Console.WriteLine("Segunda mão vence");
             //}
+            Console.ReadLine();
         }
     }
 }
